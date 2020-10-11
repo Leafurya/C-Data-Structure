@@ -1,5 +1,5 @@
-#ifndef _sord__h_
-#define _sord__h_
+#ifndef _sort__h_
+#define _sort__h_
 
 #include "sortheader.h"
 
